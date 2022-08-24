@@ -10,6 +10,4 @@ See [LICENSE](LICENSE).
 
 ## Contrib
 
-Thanks humus@rogers.com for his TexturePacker class
-
 Table model by [@endy007]
